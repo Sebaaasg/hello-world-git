@@ -13,4 +13,9 @@ Underline 2
 ====================
 
 
-Soy un readme.
+- Letra *italica* de la primer forma.
+- Letra _italica_ de la segunda forma.
+- Formato **bold** o __strong__.
+- formato ~~tachado~~. 
+
+- aqui podemos usar *formato italica*, pero tambien **bold** y ~~tachado~~.
